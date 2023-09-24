@@ -78,6 +78,6 @@ And I will probably eat more.
 10 end of section ten
 
 
-My favorite kind of ice cream is vanilla.
+My favorite kind of ice cream is vanilla. // strawberry is the best
 
 
