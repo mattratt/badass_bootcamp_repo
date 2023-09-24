@@ -23,9 +23,9 @@ Hello everyone.  Today is Sunday, September 24, 2023.  It's raining.
 
 4 beginning of section four
 4
-4 some section four text
+4 I hope it is not raining too much outside.
 4
-4 end of section four
+4 Today I need more sleep.
 
 
 5 beginning of section five
