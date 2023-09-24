@@ -1,11 +1,11 @@
-Hello everyone.  Today is Sunday, September 24, 2023.  It's raining.
+xHello everyone.  Today is Sunday, September 24, 2023.  It's raining.
 
 
-1 beginning of section one
-1
-1 some section one text
-1
-1 end of section one
+1 My name is Dylan.
+1 I am 21 years old.
+1 My birthday is 09/14/2002
+1 My favorite color is purple.
+1 I do not like spiders.
 
 2 beginning of section two
 2
@@ -17,15 +17,22 @@ Hello everyone.  Today is Sunday, September 24, 2023.  It's raining.
 3 beginning of section three
 3
 3 some section three text
-3
+3 rains?
 3 end of section three
 
 
 4 beginning of section four
+<<<<<<< HEAD
 4
+4 I hope it is not raining too much outside.
+4
+4 Today I need more sleep.
+=======
+4 not really sure what to put here
 4 some section four text
-4
+4 aaaaaaaaaaaaaaaaaaaaaa
 4 end of section four
+>>>>>>> e0d038ef35d7005345f92eec2908c1ba6ddcfaff
 
 
 5 
