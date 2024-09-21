@@ -14,10 +14,10 @@ Hello everyone.  Today is Saturday, September 21, 2022.
 2 
 
 3 beginning of section three
-3
-3 
-3
-3
+3  Hello my name is Mateus
+3  I really like his boot camp
+3  I have learned so much
+3  I am sad that today is the last day
 
 4 beginning of section four
 4
