@@ -1,24 +1,21 @@
-Hello everyone.  Today is Saturday, September 21, 2022.
+Hello everyone.  Today is Sunday, October 5, 2025.
 
 
 1 beginning of section one
-1 hello!!!!!!!!!!!!!!!!!!!!!!!!!
-1     /\___ /\
-1   / _     _  \
-1  =     ^      =    meow
-1   **--------** 
+1
+1
+1
+1
+1
 
 2 beginning of section two
 2
 2 
-2
-2 
 
 3 beginning of section three
-3  Hello my name is Mateus
-3  I really like his boot camp
-3  I have learned so much
-3  I am sad that today is the last day
+3  
+3  
+
 
 4 beginning of section four
 4
@@ -27,10 +24,8 @@ Hello everyone.  Today is Saturday, September 21, 2022.
 4
 
 5 beginning of section five
-5 Hello 
-5 Hello
-5 Hello
-5 Hello
+5 
+5 
 
 6 beginning of section six
 6
