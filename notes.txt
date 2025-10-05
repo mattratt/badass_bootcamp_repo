@@ -29,7 +29,7 @@ Hello everyone.  Today is Sunday, October 5, 2025.
 
 6 beginning of section six
 6
-6 
+6 Concurrent changes to the same file. 
 6
 6 
 
