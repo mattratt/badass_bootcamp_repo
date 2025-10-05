@@ -31,7 +31,7 @@ Hello everyone.  Today is Sunday, October 5, 2025.
 6
 6 Concurrent changes to the same file. 
 6
-6 
+6 Now here's some new changes.
 
 7 beginning of section seven
 7
@@ -58,4 +58,4 @@ Hello everyone.  Today is Sunday, October 5, 2025.
 10 
 
 
-The best kind of ice cream is ???.
+The best kind of ice cream is no
